@@ -1,4 +1,6 @@
 .App {
+  display: flex;
+  place-items: center;
   background-image: linear-gradient(79deg, #7439db, #C66FBC 48%, #F7944D);
   height: 100vh;
 }

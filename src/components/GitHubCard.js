@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './GitHubCard.css'; // Import the external CSS file
+import './GitHubCard.css';
 
 function GitHubCard() {
     const [username, setUsername] = useState('');
